@@ -1,4 +1,4 @@
-<h1 align="center">👾 Hey — I’m <strong>[0xgitgat]</strong></h1>
+<h1 align="center">👾 Hey — I’m <strong></strong>0xgitgat</strong></h1>
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1200&color=39FF14&width=760&lines=Building+the+future+%7C+Breaking+the+limits.;CyberSec+%2B+Web3+%2B+AI+%7C+All-Stack+Builder" alt="typing" />
 </p>
