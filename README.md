@@ -62,7 +62,7 @@
   *Dec 2022 – Present*  
 
 - **Sr Technical Project Manager**, MetaStart  
-  *Dec 2023 – Present*  
+  *Dec 2023 – Feb 2025*  
 
 - **Sr Web3 + AI Solutions Architect & Product/Project Management**, Layer-E (formerly eDAO)  
   *Feb 2023 – Aug 2023*  
