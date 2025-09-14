@@ -56,45 +56,6 @@
 
 ---
 
-## 💼 Experience
-
-- **Co-Founder & Chief Technology Officer**, Bion  
-  *Dec 2022 – Present*  
-
-- **Sr Technical Project Manager**, MetaStart  
-  *Dec 2023 – Feb 2025*  
-
-- **Sr Web3 + AI Solutions Architect & Product/Project Management**, Layer-E (formerly eDAO)  
-  *Feb 2023 – Aug 2023*  
-
-- **Head of Engineering**, DeHidden  
-  *Dec 2021 – Feb 2023*  
-
-- **Co-Founder & Head of Tech**, KonmaDAO  
-  *Jun 2021 – Present*  
-
-- **Head of Engineering**, Cope Studio  
-  *Jan 2021 – Dec 2021*  
-
-- **Projects Consulted (Freelance)**  
-  *Sep 2019 – Present*  
-
----
-
-## 🎓 Education
-
-- **MSc Computer Science (Cyber Security)** — University of Hertfordshire  
-  *Jan 2019 – Mar 2021*  
-
-- **BCom CA (Computer Applications)** — GRD School of Commerce and International Business  
-  *Jun 2015 – May 2018*  
-
----
-
-## 🐍 GitHub Snake Game
-![Snake animation](https://github.com/0xgitgat/0xgitgat/blob/output/github-contribution-grid-snake.svg)
-
----
 
 ## 🌐 Connect with Me
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)](https://github.com/0xgitgat)
